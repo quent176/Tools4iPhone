@@ -4,9 +4,9 @@
 
 <h2>To commit your Git Repo :</h2>
 <ol>
-<li>(Select your repo on computer) : cd /LINKTOFOLDER/</li>
-<li>(Add your code to the file README.md) : echo "YOURCODE" >> README.md</li>
-<li>(Prepare the README.md to be pushed) : git add README.md</li>
-<li>(Title to your commit) : git commit -m "MYCHANGELOG"</li>
-<li>(Push your new README.md to your online repo) : git push -u origin master</li>
+<li>(Select your repo on computer) : <code>cd /LINKTOFOLDER/</code></li>
+<li>(Add your code to the file README.md) : <code>echo "YOURCODE" >> README.md</code></li>
+<li>(Prepare the README.md to be pushed) : <code>git add README.md</code></li>
+<li>(Title to your commit) : <code>git commit -m "MYCHANGELOG"</code></li>
+<li>(Push your new README.md to your online repo) : <code>git push -u origin master</code></li>
 </ol>
